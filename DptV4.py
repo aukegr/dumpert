@@ -1,7 +1,7 @@
 #Stop focus stealing on firefox: set browser.tabs.loadDivertedInBackground to ‘true’ in about:config
 
 import requests, json, os, pandas as pd, datetime, webbrowser, re, tkinter as tk
-from TkinterDnD2 import *
+from tkinterdnd2 import *
 from tkinter import ttk, Menu
 from PIL import ImageTk, Image
 
