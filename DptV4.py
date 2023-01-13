@@ -90,7 +90,7 @@ def open_dumpert():
     webbrowser.get('C:/Program Files/Mozilla Firefox/firefox.exe %s').open("https://www.dumpert.nl")
 
 def open_dumpstats():
-    webbrowser.get('C:/Program Files/Mozilla Firefox/firefox.exe %s').open("https://dumpstats.nl/reaguurder/ditraaktkantnochwal")
+    webbrowser.get('C:/Program Files/Mozilla Firefox/firefox.exe %s').open("https://dumpstats.nl")
 
 refreshed = False
 def refresh(check_url):
